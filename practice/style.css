@@ -1,0 +1,83 @@
+span{
+    color: white;
+    padding-bottom: 20px;
+    padding-left: 150px;
+    font-size: large;
+    
+}
+h1{
+    background: linear-gradient(to bottom,#aecef5,#314e7a);
+     padding: 20px;
+     padding-left: 200px;
+     font-family: fantasy;
+     font-style:calc(linear-gradient)
+     
+}
+h3{
+    text-align: 40px;
+    color: white;
+    font-size:x-large;
+    padding-left: 200px;
+}
+    
+p{
+    text-align: 40px;
+    color: white;
+}
+button{
+    background-color: rgb(29, 188, 246);
+    
+}
+*{
+    background-color: black;
+}
+pre{
+    color: white;
+}
+.rnxg{
+    
+    height: 45px;
+    width: 450px;
+    color: white;
+    padding-left: 200px;
+    font-size: large;
+    text-align: justify;
+}
+
+h2{
+    color: rgb(163, 199, 241);
+    padding-left: 200px;
+    font-size: xx-large;
+}
+button{
+    background-color: aqua;
+    margin: 40px;
+    font-size: large;
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: white;
+    font-size: 30px;
+
+}    
+
+.image1{
+    float: right;
+    padding-right: 200px;
+
+}
+.text{
+    color: white;
+    width: 450px;
+    height: 45px;
+    text-align: justify;
+    padding-left: 200px;
+    font-size: large;
+    
+}
+    
+
+
+
+
+
